@@ -1,0 +1,10 @@
+
+.navbar h1{
+    margin-right: 750px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    padding-right: 40px;
+    font-size: 18px;
+}

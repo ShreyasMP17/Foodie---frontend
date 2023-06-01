@@ -1,0 +1,99 @@
+.first{
+    background-color: #ffd615;
+}
+.first p{
+    padding-top: 50px;
+    color: rgba(0, 0, 0, 0.4);
+    padding-left: 20px;
+    font-size: 25px;
+}
+.first button{
+    color: white;
+    background-color: black;
+    padding: 13px 40px 13px 15px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: 35px;
+    
+}
+.first h1{
+    font-size: 60px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+.first span{
+    border-bottom: 5px solid black;
+    padding-bottom: 7px;
+    
+}
+.one{
+    margin-top: 40px;
+    padding-left: 10px;
+    background-image: url("16.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+    width: 50%;
+    margin-left: 750px;
+    display: flex;
+    border-radius: 5px;
+}
+.imgone{
+    margin-left:-720px ;
+}
+.imgone img{
+    margin-right: 25px;
+}
+.second h1{
+    font-size: 50px;
+    margin-top: 100px;
+    margin-left: 40px;
+}
+.two{
+    display: flex;
+    margin-top: -430px;
+}
+.one h1{
+    font-size: 25px;
+    margin-top: 10px;
+    
+}
+.one p{
+    font-size: 20px;
+    color: grey;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.two h1{
+    font-size: 25px;
+    margin-top: 10px;
+    
+}
+.two p{
+    font-size: 20px;
+    color: grey;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.imgtw{
+    margin-left: 25px;
+}
+.imgon{
+    margin-left: 25px;
+}
+.second h2{
+    color: rgb(247, 102, 50);
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.second img{
+    border-radius: 5px;
+}
+#ten:hover{
+    background-color: orange;
+}

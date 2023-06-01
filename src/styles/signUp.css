@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+.main{
+    background-image: url("1.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    padding-top: 120px;
+    padding-left: 550px;
+}
+.signUp{
+    background-color: rgba(255, 255, 255, 0.562);
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 30px;
+}
+.signUp h1{
+    margin-bottom: 15px;
+}
+.signUp input{
+    margin-bottom: 20px;
+    background-color: rgba(240, 248, 255, 0);
+    border: none;
+    border-bottom: 1px solid black;
+    
+}

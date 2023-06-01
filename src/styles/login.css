@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+.mainy{
+    background-image: url("1.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    padding-top: 170px;
+    padding-left: 550px;
+}
+.login{
+    background-color: rgba(255, 255, 255, 0.562);
+    height: 400px;
+    width: 500px;
+    text-align: center;
+    padding: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 30px;
+}
+.login h1{
+    margin-bottom: 25px;
+}
+.login input{
+    margin-bottom: 20px;
+    background-color: rgba(240, 248, 255, 0);
+    border: none;
+    border-bottom: 1px solid black;
+    
+}
